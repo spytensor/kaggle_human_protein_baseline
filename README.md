@@ -8,6 +8,7 @@ Links:
 - [My Blog](http://www.spytensor.com/)
 - [My GitHub](https://github.com/spytensor)
 - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)
+- [Pytorch Baseline 0.461](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/72812)
 
 Baseline Score: `0.461`
 
