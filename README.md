@@ -31,6 +31,10 @@ Baseline Score: `0.461`
 
 Email: zhuchaojie@buaa.edu.cn
 
-# 5. results:
+# 5. results
 
 Because I have not enough time to train my model,after 34 epochs I stopped it and made one submission,get score : **0.461**
+
+# 6. NOTES
+
+Because some unknown problems,the result may different but around 0.45
