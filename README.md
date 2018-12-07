@@ -14,7 +14,7 @@ Baseline Score: `0.461`
 
 # 1. requirements
 
-`pytorch-0.4.0` `pretrainedmodels-0.7.4` `imagaug`
+`pytorch-0.4.0` `pretrainedmodels-0.7.4` `imgaug`
 
 # 2. usage
 
