@@ -1,5 +1,5 @@
 # kaggle_human_protein_baseline
-Human Protein Atlas Image Classification baseline:0.461
+Human Protein Atlas Image Classification baseline:0.456
 
 
 
@@ -10,7 +10,7 @@ Links:
 - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)
 - [Pytorch Baseline 0.456](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/72812)
 
-Baseline Score: `0.456`
+Baseline Score: `0.456` (now)
 
 # 1. requirements
 
